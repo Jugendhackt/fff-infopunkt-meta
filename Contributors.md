@@ -1,3 +1,6 @@
+---
+permalink: "/contributors"
+---
 # Contributors
 - Pascal
 - [Marvin](https://marvinschopf.com)
