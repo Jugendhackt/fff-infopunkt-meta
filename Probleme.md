@@ -1,3 +1,6 @@
+---
+permalink: "/probleme/"
+---
 # Probleme
 - **_Netzwerk!_**
 - - _Lösung:_ Lokale Lösung auf Raspberry Pi?
