@@ -36,3 +36,43 @@ None.
    ]
 }
 ```
+
+## Get strike details
+### Path
+```
+/strikes/get
+```
+
+### Request parameters
+`id` - `GET` - ID of the strike
+
+### Response example
+```json
+{
+   "datetime":"28.09.2019 um 18 Uhr",
+   "meetingPoint":"Jugendhaus Riedberg ",
+   "searchTitle":"abendessen",
+   "routeLength":"5m",
+   "longitude":0,
+   "source":"Telegram chat group, collected bei FFF_Info Bot",
+   "description":"es gibt wieder sehr leckeres Essen im Präsentationsraum",
+   "url":"Team FFF Infopunkt",
+   "latitude":0,
+   "strikeId":2,
+   "endPoint":"NONE",
+   "title":"Abendessen",
+   "code":"SUCCESS",
+   "message":""
+}
+```
+
+## Search by title
+### Path
+```
+/strikes/search/title
+```
+
+### Request parameters
+`q` - `GET` - Search query
+
+### Response
