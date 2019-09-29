@@ -1,5 +1,7 @@
 # fff-infopunkt-meta
-<img src="logo.png" width="200">
+<center>
+  <img src="logo.png" width="200">
+</center>
 
 ![IPv6 ready](https://img.shields.io/badge/IPv6-ready-brightgreen?style=flat-square)
 
